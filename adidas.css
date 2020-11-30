@@ -1,0 +1,196 @@
+#one {
+    width: 100%;
+    height: 200px;
+    /* background-color: black; */
+    background-image: url(https://dcassetcdn.com/design_img/2807037/625670/625670_15469175_2807037_679ec3d0_image.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    /* border: 0.5px gray solid; */
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+#one span {
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: orangered;
+    font-weight: bold;
+    font-size: 70px;
+}
+
+#brand {
+    width: 100%;
+    height: 50%;
+    text-align: center;
+    font-size: 40px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: bold;
+}
+
+.two {
+    display: inline-block;
+    text-decoration: underline;
+    color: black;
+    
+}
+
+#three {
+    width: 100%;
+    height: 50px;
+    font-size: 30px;
+    margin-top: 20px;
+    padding-left: 450px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: bold;
+    color: aliceblue;
+}
+
+#container {
+    width: 100%;
+    height: 1000px;
+    display: flex;
+    flex-direction: row;
+    align-items: top;
+    justify-content: center;
+    padding-top: 20px;
+   
+}
+
+.jordan4 img {
+    width: 300px;
+}
+
+.name {
+    width: 100%;
+    font-size: 30px;
+    font-family: 'RingsideWideSSm-Medium_Web',sans-serif;
+    font-weight: bold;
+}
+.sneaker1 {
+    /* border: solid 0.25px black; */
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    font-family:'RingsideWideSSm-Medium_Web',sans-serif; 
+    font-weight: bold;
+    color:black;
+    
+    
+
+}
+/* #background{
+    background-image: url(https://i.pinimg.com/originals/6d/df/89/6ddf89a95cc31286387b11c64c1991a8.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+} */
+
+#logo{
+    background-size: contain;
+    background-repeat: no-repeat;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding-right: 29px; 
+    
+}
+#adidastext{
+color:grey;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 20px;
+    line-height: 22px;
+    margin-top: 0px;
+    max-width: 900px;
+    text-align: center;
+    padding-left: 455px; 
+}
+.NNN {
+    text-align: right;
+    padding-right: 80px;
+    background-image: url(https://s29643.pcdn.co/wp-content/uploads/StockX-blog-thumbnail-4.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: right;
+    height: 50px;
+    line-height: 50px;
+    font-size: 20px;
+    color:black;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: bold;
+}
+.cl{
+    color: black;
+}
+
+
+
+.boxinner{
+    padding : 25px;
+    width : 350px;
+    height: 150px;
+    float : right;
+    margin-top: -20px;
+    margin-left: 20px;
+}
+
+.button{
+    color:white;
+    background-color: #000000;
+    width:80px;
+    height:36px;
+    border: none;
+}
+
+.button:hover{
+    background-color:rgb(9, 189, 9);
+}
+.innerInfor{
+    background-color: #dcdcdc;
+    width:100%;
+    height :500px;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content : space-between;
+    padding : 15px 0 0  0;
+}
+
+
+.innerInforBox{
+    width : 300px;
+    height :420px;
+    float : left;
+    padding: 0 0 0 30px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 17px;
+}
+
+
+
+.heading2{
+    font-size: 20px;
+    color: white;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+
+.space2{
+    height :13px; 
+    width : auto;
+}
+
+.small{
+    font-size : 17px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+#info{
+    color: black;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+   
+}
+
+
+
